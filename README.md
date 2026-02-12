@@ -3,8 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
-
+This project documents the deployment and configuration of a Windows Active Directory environment in the cloud using Microsoft Azure. The goal of this lab is to simulate a real-world setup by building a Domain Controller, joining a client machine to the domain, organizing users into Organizational Units (OUs), and managing access through Group Policy.
 
 <h2>Environments and Technologies Used</h2>
 
