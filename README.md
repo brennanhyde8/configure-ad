@@ -156,6 +156,18 @@ Switch to this account for ongoing administrative tasks.
 
 ## Automate User Creation with PowerShell
 
+<p>
+<img width="1280" height="772" alt="Screenshot RD11" src="https://github.com/user-attachments/assets/98740df0-d293-4de5-bd3c-fb8e36f8a4b4" />
+</p>
+
+<p>
+<img width="1280" height="772" alt="Screenshot RD12" src="https://github.com/user-attachments/assets/f60b9bb3-c982-4193-bb90-aa11e99bdb92" />
+</p>
+
+<p>
+<img width="2548" height="1459" alt="Screenshot 2026-02-12 170434" src="https://github.com/user-attachments/assets/eed01c92-599e-4283-a185-6061afca0e23" />
+</p>
+
 * Log into DC-1 as "jane_admin".
 * Open PowerShell ISE as Administrator.
 * Execute a script to bulk-create user accounts.
