@@ -56,9 +56,9 @@ The project demonstrates how to build a Domain Controller, join a client machine
 <img width="2551" height="1464" alt="Screenshot 2026-02-12 145224" src="https://github.com/user-attachments/assets/95a06208-63d2-444f-839b-74988f33a8e3" />
 </p>
 
-* Create a Windows Server 2022 VM named "DC-1".
+* Create a Windows Server 2022 VM named "dc-1".
 * Configure its private IP address as "static".
-* Create a Windows 10 VM named "Client-1".
+* Create a Windows 10 VM named "client-1".
 * Place both VMs in the same Resource Group and Virtual Network (VNet).
 * Confirm network visibility between machines.
 
@@ -66,23 +66,35 @@ The project demonstrates how to build a Domain Controller, join a client machine
 
 ## Validate Network Connectivity
 
-* Use Remote Desktop to access Client-1.
-* Run a continuous ping to DC-1’s private IP.
-* Enable ICMP in Windows Firewall on DC-1.
+<p>
+<img width="1279" height="759" alt="Screenshot RD2" src="https://github.com/user-attachments/assets/4a69f6a2-c2b2-41cc-bbb5-a8bb24040461" />
+</p>
+
+<p>
+<img width="850" height="512" alt="Screenshot RD1" src="https://github.com/user-attachments/assets/68e68a0a-cc6a-498e-983b-c8757a9e3a49" />
+</p>
+
+<p>
+<img width="1279" height="759" alt="Screenshot RD3" src="https://github.com/user-attachments/assets/ee669fab-8d20-424c-bee3-bcf53613b3c2" />
+</p>
+
+* Use Remote Desktop to access Client-1 and dc-1.
+* Disable Windows Firewall on DC-1.
+* Ping to DC-1’s private IP.
 * Confirm successful communication.
 
 This ensures proper internal routing before domain configuration.
 
 ---
 
-## 🏢 3️⃣ Install and Configure Active Directory
+## Install and Configure Active Directory
 
-* Install the AD DS role on DC-1.
-* Promote DC-1 to a Domain Controller.
+* Install the AD DS role on dc-1.
+* Promote dc-1 to a Domain Controller.
 * Create a new forest (example: `mydomain.com`).
 * Restart and log in using domain credentials.
 
-At this point, DC-1 functions as the central authentication server.
+At this point, dc-1 functions as the central authentication server.
 
 ---
 
