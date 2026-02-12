@@ -187,11 +187,10 @@ Configure the policy to lockout users after a certain amount of login attempts.
 
 Force policy update with:
 
-```bash
-gpupdate /force
-```
+ - "gpupdate /force"
 
-This centralizes RDP permissions instead of configuring each device individually.
+
+This centralizes the account lockout policy.
 
 ---
 
