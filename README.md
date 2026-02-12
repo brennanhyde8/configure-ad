@@ -137,11 +137,11 @@ Switch to this account for ongoing administrative tasks.
 
 ---
 
-## 💻 5️⃣ Join Client Machine to Domain
+## Join Client Machine to Domain
 
-* Configure Client-1’s DNS to point to DC-1.
+* Configure client-1’s DNS to point to dc-1.
 * Restart the client VM.
-* Join the machine to `mydomain.com`.
+* Join the machine to "mydomain.com".
 * Restart again.
 * Verify it appears in Active Directory.
 * (Optional) Move it into the `_CLIENTS` OU.
