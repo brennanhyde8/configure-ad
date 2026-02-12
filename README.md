@@ -89,29 +89,37 @@ This ensures proper internal routing before domain configuration.
 
 ## Install and Configure Active Directory
 
+<p>
+<img width="1280" height="763" alt="Screenshot RD4" src="https://github.com/user-attachments/assets/ac53651b-df16-4a8f-a53f-6f8b52907a3c" />
+</p>
+
+<p>
+<img width="1280" height="763" alt="Screenshot RD5" src="https://github.com/user-attachments/assets/86914c85-23c6-4516-b7a0-085ad290325e" />
+</p>
+
 * Install the AD DS role on dc-1.
 * Promote dc-1 to a Domain Controller.
-* Create a new forest (example: `mydomain.com`).
+* Create a new forest (example: mydomain.com).
 * Restart and log in using domain credentials.
 
 At this point, dc-1 functions as the central authentication server.
 
 ---
 
-## 👥 4️⃣ Create Organizational Units & Admin Account
+## Create Organizational Units & Admin Account
 
 Using Active Directory Users and Computers:
 
 Create three OUs:
 
-* `_EMPLOYEES`
-* `_ADMINS`
-* `_CLIENTS`
+* "_EMPLOYEES"
+* "_ADMINS"
+* "_CLIENTS"
 
 Create an administrative account:
 
-* Username: `jane_admin`
-* Add to the **Domain Admins** group
+* Username: "jane_admin"
+* Add to the "Domain Admins" group
 
 Switch to this account for ongoing administrative tasks.
 
