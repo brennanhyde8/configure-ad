@@ -176,7 +176,7 @@ Switch to this account for ongoing administrative tasks.
 
 ---
 
-## Configure Remote Desktop via Group Policy
+## Configure Group Policy (Account Lockout)
 
 <p>
 <img width="1280" height="772" alt="Screenshot RD13" src="https://github.com/user-attachments/assets/b3e2a1fd-a207-4118-8a76-e59a0788df9f" />
@@ -186,10 +186,11 @@ Switch to this account for ongoing administrative tasks.
 <img width="1280" height="772" alt="Screenshot RD14" src="https://github.com/user-attachments/assets/d29922ae-01ca-4975-afb9-e761c9951300" />
 </p>
 
-Create and link a Group Policy Object (GPO) to:
+Navigate to:
 
-* "_CLIENTS"
-* "_EMPLOYEES"
+ - "gpmc.msc"
+ - "Account Lockout Policy"
+ - 
 
 Configure the policy to lockout users after a certain amount of login attempts.
 
