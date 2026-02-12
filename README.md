@@ -198,7 +198,7 @@ This centralizes RDP permissions instead of configuring each device individually
 
 ---
 
-# 🎯 Skills Demonstrated
+# Skills Demonstrated
 
 * Cloud VM deployment in Azure
 * Virtual network configuration
