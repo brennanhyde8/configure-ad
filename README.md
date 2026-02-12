@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 3
 - Step 4
 
-# 🖥️ Active Directory Domain Deployment Lab (Azure)
+# Active Directory Domain Deployment Lab (Azure)
 
 This repository outlines a complete walkthrough of deploying and configuring a Windows domain environment in the cloud using **Microsoft Azure**.
 
@@ -33,7 +33,7 @@ The project demonstrates how to build a Domain Controller, join a client machine
 
 ---
 
-# 📌 Project Summary
+# Project Summary
 
 In this lab, we:
 
@@ -48,7 +48,7 @@ The goal is to understand how centralized identity and access management works i
 
 ---
 
-# 🌎 Environment & Tools
+# Environment & Tools
 
 * **Microsoft Azure** (Virtual Machines & Networking)
 * Remote Desktop (RDP)
@@ -69,7 +69,7 @@ The goal is to understand how centralized identity and access management works i
 
 ---
 
-## 🔌 2️⃣ Validate Network Connectivity
+## Validate Network Connectivity
 
 * Use Remote Desktop to access Client-1.
 * Run a continuous ping to DC-1’s private IP.
