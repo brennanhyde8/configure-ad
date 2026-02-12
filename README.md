@@ -202,31 +202,10 @@ This centralizes the account lockout policy.
 
 ---
 
+# Conclusion
 
----
+This repository demonstrates the full deployment and configuration of a Windows domain environment in Microsoft Azure, using Active Directory Domain Services to centrally manage users, devices, and access.
 
-# Skills Demonstrated
-
-* Cloud VM deployment in Azure
-* Virtual network configuration
-* Active Directory installation and promotion
-* OU design and account management
-* Domain joining process
-* Group Policy management
-* PowerShell scripting and automation
-* Centralized authentication testing
-
----
-
-# ✅ Outcome
-
-By completing this project, you now have:
-
-* A fully functional Domain Controller
-* A domain-joined client machine
-* Structured Organizational Units
-* Admin and standard user accounts
-* Centralized Remote Desktop configuration
-* Automated user provisioning
+From creating virtual machines to promoting a Domain Controller, joining a client machine to the domain, organizing users into OUs, applying Group Policy, and automating account creation with PowerShell, this lab simulates the core responsibilities of a real-world system administrator.
 
 This repository reflects practical system administration experience and demonstrates foundational skills required for IT support and entry-level system administrator roles.
