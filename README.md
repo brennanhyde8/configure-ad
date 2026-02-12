@@ -139,10 +139,18 @@ Switch to this account for ongoing administrative tasks.
 
 ## Join Client Machine to Domain
 
+<p>
+<img width="1280" height="772" alt="Screenshot RD9" src="https://github.com/user-attachments/assets/df7a4404-f770-4343-8120-82bc236c6934" />
+</p>
+
+<p>
+<img width="1280" height="772" alt="Screenshot RD10" src="https://github.com/user-attachments/assets/b151d051-34a3-4bc2-9b2d-a7e16d294489" />
+</p>
+
 * Join the machine to "mydomain.com".
 * Restart again.
 * Verify it appears in Active Directory.
-* (Optional) Move it into the `_CLIENTS` OU.
+* Move it into the "_CLIENTS" OU.
 
 ---
 
