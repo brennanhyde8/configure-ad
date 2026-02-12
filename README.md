@@ -190,7 +190,7 @@ Navigate to:
 
  - "gpmc.msc"
  - "Account Lockout Policy"
- - 
+   
 
 Configure the policy to lockout users after a certain amount of login attempts.
 
