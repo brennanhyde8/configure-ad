@@ -165,7 +165,7 @@ Switch to this account for ongoing administrative tasks.
 </p>
 
 <p>
-<img width="2548" height="1459" alt="Screenshot 2026-02-12 170434" src="https://github.com/user-attachments/assets/eed01c92-599e-4283-a185-6061afca0e23" />
+<img width="2535" height="1458" alt="Screenshot 2026-02-12 170941" src="https://github.com/user-attachments/assets/b460fdb3-36cb-4df6-9f70-a041b678aacc" />
 </p>
 
 * Log into DC-1 as "jane_admin".
