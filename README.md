@@ -154,6 +154,16 @@ Switch to this account for ongoing administrative tasks.
 
 ---
 
+## Automate User Creation with PowerShell
+
+* Log into DC-1 as "jane_admin".
+* Open PowerShell ISE as Administrator.
+* Execute a script to bulk-create user accounts.
+* Confirm new users appear in the correct OU.
+* Test login from Client-1 with a newly created user.
+
+---
+
 ## Configure Remote Desktop via Group Policy
 
 Create and link a Group Policy Object (GPO) to:
@@ -173,13 +183,6 @@ This centralizes RDP permissions instead of configuring each device individually
 
 ---
 
-## ⚡ 7️⃣ Automate User Creation with PowerShell
-
-* Log into DC-1 as `jane_admin`.
-* Open PowerShell ISE as Administrator.
-* Execute a script to bulk-create user accounts.
-* Confirm new users appear in the correct OU.
-* Test login from Client-1 with a newly created user.
 
 ---
 
