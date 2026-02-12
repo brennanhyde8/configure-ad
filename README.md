@@ -178,6 +178,14 @@ Switch to this account for ongoing administrative tasks.
 
 ## Configure Remote Desktop via Group Policy
 
+<p>
+<img width="1280" height="772" alt="Screenshot RD13" src="https://github.com/user-attachments/assets/b3e2a1fd-a207-4118-8a76-e59a0788df9f" />
+</p>
+
+<p>
+<img width="1280" height="772" alt="Screenshot RD14" src="https://github.com/user-attachments/assets/d29922ae-01ca-4975-afb9-e761c9951300" />
+</p>
+
 Create and link a Group Policy Object (GPO) to:
 
 * "_CLIENTS"
