@@ -183,7 +183,7 @@ Create and link a Group Policy Object (GPO) to:
 * "_CLIENTS"
 * "_EMPLOYEES"
 
-Configure the policy to allow domain users Remote Desktop access.
+Configure the policy to lockout users after a certain amount of login attempts.
 
 Force policy update with:
 
