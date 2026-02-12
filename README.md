@@ -154,12 +154,12 @@ Switch to this account for ongoing administrative tasks.
 
 ---
 
-## 🛠 6️⃣ Configure Remote Desktop via Group Policy
+## Configure Remote Desktop via Group Policy
 
 Create and link a Group Policy Object (GPO) to:
 
-* `_CLIENTS`
-* `_EMPLOYEES`
+* "_CLIENTS"
+* "_EMPLOYEES"
 
 Configure the policy to allow domain users Remote Desktop access.
 
