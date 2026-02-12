@@ -48,6 +48,14 @@ The project demonstrates how to build a Domain Controller, join a client machine
 
 ## Provision Infrastructure in Azure
 
+<p>
+<img width="2548" height="1462" alt="Screenshot 2026-02-12 144848" src="https://github.com/user-attachments/assets/80bb37a8-ce69-44e6-bcd5-b841f01fd2f9" />
+</p>
+
+<p>
+<img width="2551" height="1464" alt="Screenshot 2026-02-12 145224" src="https://github.com/user-attachments/assets/95a06208-63d2-444f-839b-74988f33a8e3" />
+</p>
+
 * Create a Windows Server 2022 VM named "DC-1".
 * Configure its private IP address as "static".
 * Create a Windows 10 VM named "Client-1".
