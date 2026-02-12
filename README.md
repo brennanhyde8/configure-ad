@@ -139,8 +139,6 @@ Switch to this account for ongoing administrative tasks.
 
 ## Join Client Machine to Domain
 
-* Configure client-1’s DNS to point to dc-1.
-* Restart the client VM.
 * Join the machine to "mydomain.com".
 * Restart again.
 * Verify it appears in Active Directory.
