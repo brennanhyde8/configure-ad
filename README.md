@@ -75,7 +75,7 @@ The project demonstrates how to build a Domain Controller, join a client machine
 </p>
 
 <p>
-<img width="1279" height="759" alt="Screenshot RD3" src="https://github.com/user-attachments/assets/ee669fab-8d20-424c-bee3-bcf53613b3c2" />
+<img width="1279" height="759" alt="Screenshot RD3" src="https://github.com/user-attachments/assets/1e561389-765b-4cfb-b15c-77a7a74125b6" />
 </p>
 
 * Use Remote Desktop to access Client-1 and dc-1.
