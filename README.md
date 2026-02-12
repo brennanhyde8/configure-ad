@@ -108,6 +108,18 @@ At this point, dc-1 functions as the central authentication server.
 
 ## Create Organizational Units & Admin Account
 
+<p>
+<img width="1280" height="770" alt="Screenshot RD6" src="https://github.com/user-attachments/assets/b00a358c-7438-41eb-8e72-222e41a59138" />
+</p>
+
+<p>
+<img width="1280" height="770" alt="Screenshot RD7" src="https://github.com/user-attachments/assets/6ebfce3e-696e-48b7-83f6-53e1c54cc557" />
+</p>
+
+<p>
+<img width="1280" height="772" alt="Screenshot RD8" src="https://github.com/user-attachments/assets/48f784e6-622e-479f-a084-1f08b630f8dc" />
+</p>
+
 Using Active Directory Users and Computers:
 
 Create three OUs:
